@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://a113@192.168.3.80:22/home/a113/anaconda3/envs/ocp-models/bin/python3.9" />
+      </list>
+    </list>
+  </component>
+</project>
