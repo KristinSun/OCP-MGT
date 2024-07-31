@@ -1,3 +1,6 @@
+Our MGT model is configured in configs/is2re/10k/MGT/gmt.yml and implemented in ocpmodels/GMTNet. The OC20 Ni dataset is selected from the OC20 dataset in the open-source OCP project and stored in this link(https://doi.org/10.5281/zenodo.12200723).
+
+
 # `ocp` by Open Catalyst Project
 
 [![CircleCI](https://circleci.com/gh/Open-Catalyst-Project/ocp.svg?style=shield)](https://circleci.com/gh/Open-Catalyst-Project/ocp)
