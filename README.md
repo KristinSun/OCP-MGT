@@ -1,5 +1,5 @@
 # MGT Model
-Our MGT model is configured in configs/is2re/10k/MGT/gmt.yml and implemented in ocpmodels/GMTNet. 
+Our MGT model is configured in configs/is2re/10k/MGT/gmt.yml and implemented in ocpmodels/models/GMTNet. One of them, MGT.py, holds the main code of the MGT model.
 The OC20-Ni dataset is selected from the OC20 dataset in the open-source OCP project and stored in this link(https://doi.org/10.5281/zenodo.12200723).
 
 
